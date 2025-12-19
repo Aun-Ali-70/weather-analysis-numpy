@@ -34,4 +34,4 @@ The dataset (`temperatures.csv`) contains daily temperature values:
 
 1. Clone this repository:
    ```bash
-https://github.com/70152961/weather-analysis-numpy
+https://github.com/Aun-Ali-70/weather-analysis-numpy
